@@ -1,0 +1,17 @@
+﻿#ignores
+FakesAssemblies/
+*.suo
+*.csproj.user
+*.user
+*node_modules*
+*bin*
+*obj*
+connectionStrings.config
+*.mdf
+*.ldf
+*.gitattributes
+
+*.log
+
+
+AssemblyInfoGenerated.cs
